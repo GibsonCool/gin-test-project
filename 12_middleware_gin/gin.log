@@ -1,0 +1,4 @@
+[GIN] 2019/11/05 - 10:23:32 | 500 |    1.104504ms |       127.0.0.1 | GET      /test/middleware?name=err
+[GIN] 2019/11/05 - 10:23:41 | 500 |     933.266µs |       127.0.0.1 | GET      /test/middleware?name=err
+[GIN] 2019/11/05 - 10:24:32 | 200 |      56.652µs |       127.0.0.1 | GET      /test/middleware?name=test
+[GIN] 2019/11/05 - 10:24:36 | 200 |      25.708µs |       127.0.0.1 | GET      /test/middleware?name=testing
