@@ -267,3 +267,6 @@ func add(left int, right int) int
 
 
 ​	就可以将当前的变量传给子模板了，这个也是相当方便的。
+
+
+test
